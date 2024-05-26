@@ -119,6 +119,18 @@ Download Link: http://example.com/download/CinsCalculator
 This README provides a detailed guide to compile, execute, and understand the client-server interaction using shared memory and FIFO. Adjust the shared memory size and other parameters as per your requirements.
 
 ## Türkçe
+## Contents
+- [Genel Bakış](#genel-bakış)
+- [Dosyalar](#dosyalar)
+- [Derleme](#derleme)
+- [Çalıştırma](#çalıştırma)
+- [Detaylı Açıklama](#detaylı-açıklama)
+  - [İstemci (Client.cxx)](#istemci-clientcxx)
+  - [Sunucu (Server.cxx)](#sunucu-servercxx)
+- [Önemli Notlar](#önemli-notlar)
+- [Örnek Çıktı](#örnek-çıktı)
+  - [Sunucu](#sunucu-1)
+  - [istemci](#istemci)
 ### Genel Bakış
 Bu proje, bir istemci ve sunucu arasındaki iletişimi ortak bellek ve adlandırılmış borular (FIFO) kullanarak gösterir. İstemci, sahip olduğu programların bir listesini adlandırılmış boru aracılığıyla sunucuya gönderir ve sunucu güncellemeleri kontrol eder ve ortak bellek aracılığıyla istemciye geri bildirir.
 
