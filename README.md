@@ -119,7 +119,7 @@ Download Link: http://example.com/download/CinsCalculator
 This README provides a detailed guide to compile, execute, and understand the client-server interaction using shared memory and FIFO. Adjust the shared memory size and other parameters as per your requirements.
 
 ## Türkçe
-## Contents
+## İçindekiler
 - [Genel Bakış](#genel-bakış)
 - [Dosyalar](#dosyalar)
 - [Derleme](#derleme)
