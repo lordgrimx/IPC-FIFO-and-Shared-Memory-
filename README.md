@@ -2,7 +2,7 @@
 ## README
 
 ## Language
-- [Türkçe](#turkçe)
+- [Türkçe](#türkçe)
 - [English](#english)
 
 ## Contents
